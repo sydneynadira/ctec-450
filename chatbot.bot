@@ -1,0 +1,19 @@
+{
+    "name": "chatbot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "http://127.0.0.1:3979/api/messages",
+            "id": "53538080-fd5a-11ef-a2bd-392a9f9a92f0",
+            "appId": "",
+            "appPassword": "",
+            "tenantId": "",
+            "endpoint": "http://127.0.0.1:3979/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\sydWY\\OneDrive\\Documents\\chatbot.bot",
+    "overrides": null
+}
